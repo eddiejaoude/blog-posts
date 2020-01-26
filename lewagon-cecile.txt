@@ -1,5 +1,7 @@
 # Bootcamp: from teacher to developer in London
 
+https://www.youtube.com/watch?v=HNFcYnT5u_8
+
 Bootcamp: from teacher to developer in London
 Cecile: GitHub is the perfect … it's our LinkedIn, it's our portfolio, it's what recruiters want to see in tech so I think it's pretty important. Also, if you don't put it online, if you don't deploy it to the web, how can you brag to your friends and family?
 Eddie: Exactly. No one's looking, right? High five me. That's awesome. That's so cool, see? Great minds.
